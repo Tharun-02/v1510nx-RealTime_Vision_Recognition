@@ -58,7 +58,7 @@ To run the project
 
 Clone the respository
 ```bash
-git clone 
+git clone https://github.com/Tharun-02/v1510nx-RealTime_Vision_Recognition.git
 ```
 
 [or]
