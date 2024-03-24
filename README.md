@@ -11,7 +11,7 @@ Deep Neural Networks (DNNs) have proven to be highly effective in handling large
 
 **IoT Device** the is is primarily based on ESP-32 Cam by expressif. 
 * It has built-in Wifi 802.11 Wifi 2.4 GHz.
-* Blutooth 5.0.
+* Bluetooth 5.0.
 * An Led for indicator.
 * 3.7v 500mAh Li-Po battery.
 * BMS for over current and over charge protection.
